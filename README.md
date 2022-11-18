@@ -6,6 +6,54 @@ Also, in the below I brought all the services which are included in the exam. Th
 Creating mindmaps for different AWS services would help in memorizing different features and components of every service for the exam. They 
 provide some prepared resources in getting AWS Certified Solutions Architect Associate (SAA-03) Certificates easier. 
 
+### Compute:
+
+![Compute](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Compute.png "Compute")
+
+### Containers:
+
+![Containers](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Containers.png "Containers")
+
+### Storage:
+
+![Storage](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Storage.png "Storage")
+
+### Database:
+
+![Database](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Database.png "Database")
+
+### Network:
+
+![Network](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Network.png "Network")
+
+### Management Tools:
+
+![Management Tools](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Management%20Tools.png "Management Tools")
+
+### Application Integration:
+
+![Application Integration](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Application%20Integration.png "Application Integration")
+
+### Security, Identity, & Compliance:
+
+![Security, Identity, & Compliance](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Security%2C%20Identity%2C%20%26%20Compliance.png "Security, Identity, & Compliance")
+
+### Machine Learning:
+
+![Machine Learning](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Machine%20Learning.png "Machine Learning")
+
+### End User Computing:
+
+![End User Computing](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/End%20User%20Computing.png "End User Computing")
+
+### Media Services:
+
+![Media Services](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Media%20Services.png "Media Services")
+
+### Analytics:
+
+![Analytics](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Analytics.png "Analytics")
+
 ### Refrences:
 
 **Icons**: 
