@@ -1,4 +1,4 @@
-# AWS-Solution-Architect-Associate
+# AWS Certified Solution Architect Associate exam mindmaps and notes
 This is the notes and resources that I used for preparing myself for AWS Certified Solutions Architect Associate (SAA-03) exam. The purpose of creating this repository
 was to share the mindmaps that I have assigned so much time to create in Xmind software. Next, I wanted to share the sources that I have used for creating this mindmaps.
 Also, in the below I brought all the services which are included in the exam. The red ones are the services that are in the exam domain but are not included in the notes.
@@ -6,55 +6,55 @@ Also, in the below I brought all the services which are included in the exam. Th
 Creating mindmaps for different AWS services would help in memorizing different features and components of every service for the exam. They 
 provide some prepared resources in getting AWS Certified Solutions Architect Associate (SAA-03) Certificates easier. 
 
-### Compute:
+## Compute:
 
 ![Compute](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Compute.png "Compute")
 
-### Containers:
+## Containers:
 
 ![Containers](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Containers.png "Containers")
 
-### Storage:
+## Storage:
 
 ![Storage](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Storage.png "Storage")
 
-### Database:
+## Database:
 
 ![Database](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Database.png "Database")
 
-### Network:
+## Network:
 
 ![Network](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Network.png "Network")
 
-### Management Tools:
+## Management Tools:
 
 ![Management Tools](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Management%20Tools.png "Management Tools")
 
-### Application Integration:
+## Application Integration:
 
 ![Application Integration](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Application%20Integration.png "Application Integration")
 
-### Security, Identity, & Compliance:
+## Security, Identity, & Compliance:
 
 ![Security, Identity, & Compliance](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Security%2C%20Identity%2C%20%26%20Compliance.png "Security, Identity, & Compliance")
 
-### Machine Learning:
+## Machine Learning:
 
 ![Machine Learning](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Machine%20Learning.png "Machine Learning")
 
-### End User Computing:
+## End User Computing:
 
 ![End User Computing](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/End%20User%20Computing.png "End User Computing")
 
-### Media Services:
+## Media Services:
 
 ![Media Services](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Media%20Services.png "Media Services")
 
-### Analytics:
+## Analytics:
 
 ![Analytics](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Analytics.png "Analytics")
 
-### Refrences:
+## Refrences:
 
 **Icons**: 
 
