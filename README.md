@@ -1,10 +1,10 @@
 # AWS Solution Architect Associate exam's mindmaps and notes
-This repository has been created to provide notes and guidance in being prepared for AWS Certified Solutions Architect Associate (SAA-03) exam. The first purpose of creating this repository was to share the mindmaps that I have assigned so much time to create in Xmind software for my exam. Then, I wanted to share the sources that I have used for creating this mindmaps.
+This repository has been created to provide notes and guidance in prepartion for AWS Certified Solutions Architect Associate (SAA-03) exam. The first purpose of creating this repository was to share the mindmaps that I have assigned so much time to create in Xmind software for my exam. Then, I wanted to share the sources that I have used for creating this mindmaps and preparing for exam.
 
 Correspondingly, [first](#which-key-tools-technologies-and-concepts-might-be-covered-on-the-exam) part is the list of AWS services which are included in the SAA-03 exam.
 
 [Second](#mind-maps-for-aws-services-and-features) part would be the mind maps that I have created by Xmind software to help in remembring exam's stuff.
-Since there are so many services I am trying to update the mindmaps of each segment with the new services which were not in my courses and I have to read about them in other resources. So, this mindmaps will be updating with the passage of time.
+Since there are more than hundred of services, loading the png files would take some time. The main target of sharing this repository is using the xmind files. In this files you can open and close the branches of every graph and make it easier to read the content. The png files are only for showing the whole content and I don't think will be easy to read them. So, use the xmind files if you want to read, or update the files. You can find the Xmind software [here](http://www.xmind.net/).
 
 Finally, there would be the [resources](#refrences) I have used for this repository.
 
@@ -184,53 +184,65 @@ technologies on the exam.
 Creating mindmaps for different AWS services would help in memorizing different features and components of every service for the exam. They 
 provide some prepared resources in getting AWS Certified Solutions Architect Associate (SAA-03) Certificates easier. 
 
-## Compute:
+## Analytics:
 
-![Compute](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Compute.png "Compute")
-
-## Containers:
-
-![Containers](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Containers.png "Containers")
-
-## Storage:
-
-![Storage](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Storage.png "Storage")
-
-## Database:
-
-![Database](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Database.png "Database")
-
-## Network:
-
-![Network](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Network.png "Network")
-
-## Management Tools:
-
-![Management Tools](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Management%20Tools.png "Management Tools")
+![Analytics](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Analytics%20-%20open.png "Analytics")
 
 ## Application Integration:
 
-![Application Integration](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Application%20Integration.png "Application Integration")
+![Application Integration](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Application%20Integration%20%20-%20open.png "Application Integration")
 
-## Security, Identity, & Compliance:
+## Cloud Financial Management:
 
-![Security, Identity, & Compliance](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Security%2C%20Identity%2C%20%26%20Compliance.png "Security, Identity, & Compliance")
+![Cloud Financial Management](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Cloud%20Financial%20Management.png "Cloud Financial Management")
 
-## Machine Learning:
+## Compute:
 
-![Machine Learning](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Machine%20Learning.png "Machine Learning")
+![Compute](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Compute%20-%20open.png "Compute")
+
+## Containers:
+
+![Containers](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Containers%20-%20open.png "Containers")
+
+## Database:
+
+![Database](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Database%20-%20open.png "Database")
 
 ## End User Computing:
 
-![End User Computing](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/End%20User%20Computing.png "End User Computing")
+![End User Computing](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/End%20User%20Computing%20-%20open.png "End User Computing")
+
+## Front-End Web & Mobile:
+
+![Front-End Web & Mobile](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Front-End%20Web%20%26%20Mobile%20-%20open.png "Front-End Web & Mobile")
+
+## Machine Learning:
+
+![Machine Learning](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Machine%20Learning%20-%20open.png "Machine Learning")
+
+## Management and Governance:
+
+![Management and Governance](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Management%20and%20Governance%20-%20open.png "Management and Governance")
 
 ## Media Services:
 
-![Media Services](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Media%20Services.png "Media Services")
+![Media Services](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Media%20Services%20-%20open.png "Media Services")
 
-## Analytics:
+## Migration & Transfer:
 
-![Analytics](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/Analytics.png "Analytics")
+![Migration & Transfer](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Migration%20%26%20Transfer%20-%20open.png "Migration & Transfer")
+
+## Networking and Content Delivery:
+
+![Networking and Content Delivery](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Networking%20and%20Content%20Delivery%20-%20open.png "Networking and Content Delivery")
+
+## Security, Identity, & Compliance:
+
+![Security, Identity, & Compliance](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Security%2C%20Identity%2C%20%26%20Compliance%20-%20open.png "Security, Identity, & Compliance")
+
+## Storage:
+
+![Storage](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Storage%20-%20open.png "Storage")
 
 ## Refrences:
 
@@ -251,3 +263,5 @@ provide some prepared resources in getting AWS Certified Solutions Architect Ass
 [AWS Certified Solutions Architect Study Guide: Associate SAA-C03 Exam, 4th Edition](https://www.amazon.com/Certified-Solutions-Architect-Study-Guide/dp/1119982626) by Ben Piper and David Clinton
 
 [Exam Prep: AWS Certified Solutions Architect - Associate](https://explore.skillbuilder.aws/learn/course/9496/exam-prep-aws-certified-solutions-architect-associate) by AWS Skill Builder
+
+[AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/) by Tutorials Dojo
