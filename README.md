@@ -1,4 +1,4 @@
-# AWS Solution Architect Associate exam's mindmaps and notes
+# AWS Solutions Architect Associate exam's mindmaps and notes
 This repository has been created to provide notes and guidance in prepartion for AWS Certified Solutions Architect Associate (SAA-03) exam. The first purpose of creating this repository was to share the mindmaps that I have assigned so much time to create in Xmind software for my exam. Then, I wanted to share the sources that I have used for creating this mindmaps and preparing for exam.
 
 Correspondingly, [first](#which-key-tools-technologies-and-concepts-might-be-covered-on-the-exam) part is the list of AWS services which are included in the SAA-03 exam.
@@ -186,63 +186,63 @@ provide some prepared resources in getting AWS Certified Solutions Architect Ass
 
 ## Analytics:
 
-![Analytics](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Analytics%20-%20open.png "Analytics")
+![Analytics](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Analytics%20-%20open.png "Analytics")
 
 ## Application Integration:
 
-![Application Integration](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Application%20Integration%20%20-%20open.png "Application Integration")
+![Application Integration](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Application%20Integration%20%20-%20open.png "Application Integration")
 
 ## Cloud Financial Management:
 
-![Cloud Financial Management](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Cloud%20Financial%20Management.png "Cloud Financial Management")
+![Cloud Financial Management](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Cloud%20Financial%20Management.png "Cloud Financial Management")
 
 ## Compute:
 
-![Compute](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Compute%20-%20open.png "Compute")
+![Compute](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Compute%20-%20open.png "Compute")
 
 ## Containers:
 
-![Containers](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Containers%20-%20open.png "Containers")
+![Containers](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Containers%20-%20open.png "Containers")
 
 ## Database:
 
-![Database](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Database%20-%20open.png "Database")
+![Database](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Database%20-%20open.png "Database")
 
 ## End User Computing:
 
-![End User Computing](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/End%20User%20Computing%20-%20open.png "End User Computing")
+![End User Computing](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/End%20User%20Computing%20-%20open.png "End User Computing")
 
 ## Front-End Web & Mobile:
 
-![Front-End Web & Mobile](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Front-End%20Web%20%26%20Mobile%20-%20open.png "Front-End Web & Mobile")
+![Front-End Web & Mobile](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Front-End%20Web%20%26%20Mobile%20-%20open.png "Front-End Web & Mobile")
 
 ## Machine Learning:
 
-![Machine Learning](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Machine%20Learning%20-%20open.png "Machine Learning")
+![Machine Learning](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Machine%20Learning%20-%20open.png "Machine Learning")
 
 ## Management and Governance:
 
-![Management and Governance](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Management%20and%20Governance%20-%20open.png "Management and Governance")
+![Management and Governance](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Management%20and%20Governance%20-%20open.png "Management and Governance")
 
 ## Media Services:
 
-![Media Services](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Media%20Services%20-%20open.png "Media Services")
+![Media Services](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Media%20Services%20-%20open.png "Media Services")
 
 ## Migration & Transfer:
 
-![Migration & Transfer](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Migration%20%26%20Transfer%20-%20open.png "Migration & Transfer")
+![Migration & Transfer](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Migration%20%26%20Transfer%20-%20open.png "Migration & Transfer")
 
 ## Networking and Content Delivery:
 
-![Networking and Content Delivery](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Networking%20and%20Content%20Delivery%20-%20open.png "Networking and Content Delivery")
+![Networking and Content Delivery](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Networking%20and%20Content%20Delivery%20-%20open.png "Networking and Content Delivery")
 
 ## Security, Identity, & Compliance:
 
-![Security, Identity, & Compliance](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Security%2C%20Identity%2C%20%26%20Compliance%20-%20open.png "Security, Identity, & Compliance")
+![Security, Identity, & Compliance](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Security%2C%20Identity%2C%20%26%20Compliance%20-%20open.png "Security, Identity, & Compliance")
 
 ## Storage:
 
-![Storage](https://github.com/hameddavoudabadi/AWS-Solution-Architect-Associate/blob/main/open%20graph/Storage%20-%20open.png "Storage")
+![Storage](https://github.com/hameddavoudabadi/AWS-Solutions-Architect-Associate/blob/main/open%20graph/Storage%20-%20open.png "Storage")
 
 ## Refrences:
 
@@ -265,3 +265,7 @@ provide some prepared resources in getting AWS Certified Solutions Architect Ass
 [Exam Prep: AWS Certified Solutions Architect - Associate](https://explore.skillbuilder.aws/learn/course/9496/exam-prep-aws-certified-solutions-architect-associate) by AWS Skill Builder
 
 [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/) by Tutorials Dojo
+
+.
+
+[Back to the top](#aws-solutions-architect-associate-exams-mindmaps-and-notes)
